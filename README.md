@@ -10,7 +10,7 @@
 
 Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.
 
-Soy estudiante de la Universidad Nacional Autónoma de Nicaragua, León ([hcmuni.fpt.edu.vn](https://unanleon.edu.ni/)).En el area de Ciencias Tecnología https://unanleon.edu.ni/areas-del-conocimiento/ciencias-tecnologia/ 
+Soy estudiante de la Universidad Nacional Autónoma de Nicaragua, León ([hcmuni.fpt.edu.vn](https://unanleon.edu.ni/)).En el area de Ciencias Tecnología  ([hcmuni.fpt.edu.vn]( https://unanleon.edu.ni/areas-del-conocimiento/ciencias-tecnologia/  ))
 
 
 Actualmente me estoy enfocando en el desarrollo web de frontend  y practicando el desarrollo web de backend  y DevOps todos los días.
