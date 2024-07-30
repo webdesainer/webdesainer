@@ -54,21 +54,25 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 
 
-<p align="center">
-  <b>Frontend</b>
-  <br>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
+<h2 align="center">Frontend</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center; align-items: center;">
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+    </a>
+  </div>
+</div>
 
-</p>
 
 <br>
 <br>
