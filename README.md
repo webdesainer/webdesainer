@@ -36,8 +36,10 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
           </td>
            <td align="center">
             <td align="center">
-            <a href="https://www.python.org" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
+          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="Microsoft SQL Server" height="70"/>
+</a>
+
             </a>
           </td>
           </td>
