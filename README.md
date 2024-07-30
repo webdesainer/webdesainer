@@ -6,12 +6,22 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## My tech stack
+## Sobre mi
 
+Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.
 
+Soy estudiante de la Universidad Nacional Autónoma de Nicaragua, León ([hcmuni.fpt.edu.vn](https://unanleon.edu.ni/)).
+
+Actualmente me estoy enfocando en el desarrollo web de frontend  y practicando el desarrollo web de backend  y DevOps todos los días.
+Estoy deseando contribuir a los proyectos de código abierto.
+Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle el día a alguien 😄
 
 
 -----
+
+
+
+<h2>Pila Tecno</h2>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
