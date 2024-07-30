@@ -10,7 +10,7 @@
 
 Soy creativamente curioso y autodidacta. Me encanta explorar nuevas tecnologías y actualmente aprender nuevas habilidades.
 
-Soy estudiante de la Universidad Nacional Autónoma de Nicaragua, León ([UNAN-Leon](https://unanleon.edu.ni/)).En el area de Ciencias Tecnología  ([ciencias-tecnologia]( https://unanleon.edu.ni/areas-del-conocimiento/ciencias-tecnologia/  ))
+Soy estudiante de la Universidad Nacional Autónoma de Nicaragua, León ([UNAN-Leon](https://unanleon.edu.ni/)).En el area de Ciencias Tecnología  ([ciencias y tecnología]( https://unanleon.edu.ni/areas-del-conocimiento/ciencias-tecnologia/  ))
 
 
 Actualmente me estoy enfocando en el desarrollo web de frontend  y practicando el desarrollo web de backend  y DevOps todos los días.
@@ -34,21 +34,23 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html5.svg" alt="HTML5" height="40"/></code>
+</a>
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+</a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
-  </a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/csharp.svg" alt="C#" height="40"/></code>
+</a>
+
+
 </p>
 
 <br>
