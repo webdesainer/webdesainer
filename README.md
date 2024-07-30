@@ -32,24 +32,24 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="70"/>
             </a>
           </td>
         </tr>
         <tr>
           <td align="center" colspan="3">
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="70"/>
             </a>
           </td>
         </tr>
@@ -61,17 +61,17 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="70"/>
             </a>
           </td>
         </tr>
@@ -83,7 +83,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://nodejs.org" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="70"/>
             </a>
           </td>
         </tr>
@@ -92,17 +92,17 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h2>System & DevOps</h2>
+      <h2>Systema</h2>
       <table align="center">
         <tr>
           <td align="center">
             <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="70"/>
             </a>
           </td>
         </tr>
