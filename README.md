@@ -34,14 +34,10 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
             </a>
           </td>
-           <td align="center">
-            <td align="center">
-          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="Microsoft SQL Server" height="70"/>
-</a>
-
+          <td align="center">
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="Microsoft SQL Server" height="70"/>
             </a>
-          </td>
           </td>
           <td align="center">
             <a href="https://isocpp.org" target="_blank">
@@ -50,7 +46,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
           </td>
         </tr>
         <tr>
-          <td align="center" colspan="2">
+          <td align="center" colspan="3">
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="70"/>
             </a>
@@ -126,6 +122,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     <td width="33%"></td>
   </tr>
 </table>
+
 
 
 
