@@ -35,10 +35,10 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
             </a>
           </td>
           <td align="center">
-    <a href="[https://www.microsoft.com/en-us/sql-server](https://www.svgrepo.com/svg/303251/mysql-logo)" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_SQL_Server_logo.png](https://www.svgrepo.com/show/303251/mysql-logo.svg)" alt="Microsoft SQL Server" height="70"/>
+  <a href="https://www.mysql.com" target="_blank">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="70"/>
 </a>
-          </td>
+       </td>
           <td align="center">
             <a href="https://isocpp.org" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="70"/>
