@@ -35,8 +35,9 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   <br>
   <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html5.svg" alt="HTML5" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
 </a>
+
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
@@ -47,8 +48,9 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/csharp.svg" alt="C#" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/></code>
 </a>
+
 
 
 </p>
