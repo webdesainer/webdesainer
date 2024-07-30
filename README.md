@@ -31,21 +31,19 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
       <table align="center">
         <tr>
           <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="70"/>
+           <a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
+</a>
+
             </a>
           </td>
           <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="70"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="70"/>
-            </a>
-          </td>
-        </tr>
+           <a href="https://isocpp.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="70"/>
+</a>
+
+         
+       
         <tr>
           <td align="center" colspan="3">
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
