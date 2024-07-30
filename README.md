@@ -24,80 +24,81 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 <h2>Pila Tecno</h2>
 
-<h2>Languages</h2>
+## Languages
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/></code>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
     </a>
   </div>
 </div>
- 
-<h2 > Frontend</h2>
+
+## Frontend
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
     </a>
   </div>
 </div>
 
-<h2 >Backend</h2>
+## Backend
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://nodejs.org" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/>
     </a>
   </div>
 </div>
 
-<h2 >System & DevOps</h2>
+## System & DevOps
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/>
     </a>
   </div>
   <div>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/>
     </a>
   </div>
 </div>
 
-<h2 >Other</h2>
+## Other
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://www.electronjs.org" target="_blank">
-      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
+      <img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/>
     </a>
   </div>
 </div>
+
 
  <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
