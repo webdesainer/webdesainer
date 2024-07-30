@@ -23,7 +23,6 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 
 <h2>Pila Tecno</h2>
-
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -31,22 +30,18 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
       <table align="center">
         <tr>
           <td align="center">
-           <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
-</a>
-
+            <a href="https://www.python.org" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
             </a>
-            </tr>
           </td>
           <td align="center">
-           <a href="https://isocpp.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="70"/>
-</a>
-
-         
-       
+            <a href="https://isocpp.org" target="_blank">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="70"/>
+            </a>
+          </td>
+        </tr>
         <tr>
-          <td align="center" colspan="3">
+          <td align="center" colspan="2">
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="70"/>
             </a>
@@ -60,17 +55,17 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="70"/>
             </a>
           </td>
         </tr>
@@ -82,7 +77,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://nodejs.org" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="70"/>
             </a>
           </td>
         </tr>
@@ -91,17 +86,17 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h2>Systema</h2>
+      <h2>Systems</h2>
       <table align="center">
         <tr>
           <td align="center">
             <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="70"/>
             </a>
           </td>
           <td align="center">
             <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="70"/>
             </a>
           </td>
         </tr>
@@ -113,7 +108,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://www.electronjs.org" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="70"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="ElectronJS" height="70"/>
             </a>
           </td>
         </tr>
@@ -122,6 +117,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     <td width="33%"></td>
   </tr>
 </table>
+
 
 
  <p align="center">
