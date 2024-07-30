@@ -36,6 +36,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 </a>
 
             </a>
+            </tr>
           </td>
           <td align="center">
            <a href="https://isocpp.org" target="_blank">
