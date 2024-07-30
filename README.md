@@ -47,8 +47,8 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     </a>
   </div>
 </div>
-
-<h2 align="center">Frontend</h2>
+ 
+<h2 > Frontend</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -67,7 +67,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </div>
 </div>
 
-<h2 align="center">Backend</h2>
+<h2 >Backend</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://nodejs.org" target="_blank">
@@ -76,7 +76,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </div>
 </div>
 
-<h2 align="center">System & DevOps</h2>
+<h2 >System & DevOps</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
@@ -90,7 +90,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </div>
 </div>
 
-<h2 align="center">Other</h2>
+<h2 >Other</h2>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://www.electronjs.org" target="_blank">
