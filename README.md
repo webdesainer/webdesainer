@@ -114,7 +114,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         <tr>
           <td align="center">
             <a href="https://www.electronjs.org" target="_blank">
-              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/>
+              <img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="70"/>
             </a>
           </td>
         </tr>
