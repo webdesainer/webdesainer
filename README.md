@@ -36,8 +36,8 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
           </td>
           <td align="center">
             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="Microsoft SQL Server" height="70"/>
-            </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_SQL_Server_logo.png" alt="Microsoft SQL Server" height="70"/>
+</a>
           </td>
           <td align="center">
             <a href="https://isocpp.org" target="_blank">
