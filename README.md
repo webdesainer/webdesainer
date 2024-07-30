@@ -24,31 +24,35 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 <h2>Pila Tecno</h2>
 
-  <b>Languages</b>
-  <br>
-  <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
-</a>
-
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-</a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/></code>
-</a>
+<h2>Languages</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center; align-items: center;">
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/></code>
+    </a>
+  </div>
+</div>
 
 
 
 </p>
 
-<br>
-<br>
+
 
 <p align="center">
   <b>Frontend</b>
