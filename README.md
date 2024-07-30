@@ -25,7 +25,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 <h2>Pila Tecno</h2>
 
 <h2>Languages</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
@@ -48,14 +48,8 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </div>
 </div>
 
-
-
-</p>
-
-
-
 <h2 align="center">Frontend</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
@@ -73,48 +67,37 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   </div>
 </div>
 
+<h2 align="center">Backend</h2>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
+  <div>
+    <a href="https://nodejs.org" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
+    </a>
+  </div>
+</div>
 
-<br>
-<br>
+<h2 align="center">System & DevOps</h2>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
+  <div>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+    </a>
+  </div>
+  <div>
+    <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
+    </a>
+  </div>
+</div>
 
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
-
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>System & DevOps</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
-</p>
+<h2 align="center">Other</h2>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
+  <div>
+    <a href="https://www.electronjs.org" target="_blank">
+      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
+    </a>
+  </div>
+</div>
 
  <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
