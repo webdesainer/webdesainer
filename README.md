@@ -24,7 +24,7 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 <h2>Pila Tecno</h2>
 
-<table style="width: 100%;">
+<table style="width: 100px;">
   <tr>
     <td align="center" colspan="3" style="width: 33%;">
       ## Languages
