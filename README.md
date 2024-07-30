@@ -80,11 +80,6 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="70"/>
             </a>
           </td>
-          
-    
-        </tr>
-      </table>
-    </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
