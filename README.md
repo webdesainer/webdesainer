@@ -24,30 +24,30 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
 
 <h2>Pila Tecno</h2>
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" colspan="3" style="width: 33%;">
       ## Languages
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
             </a>
           </td>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
             </a>
           </td>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
             </a>
           </td>
         </tr>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
             </a>
@@ -57,21 +57,21 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" colspan="3" style="width: 33%;">
       ## Frontend
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/>
             </a>
           </td>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/>
             </a>
           </td>
-          <td align="center">
+          <td align="center" style="width: 33%;">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/>
             </a>
@@ -81,11 +81,11 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="width: 33%;">
       ## Backend
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 100%;">
             <a href="https://nodejs.org" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/>
             </a>
@@ -93,16 +93,16 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         </tr>
       </table>
     </td>
-    <td align="center">
+    <td align="center" style="width: 33%;">
       ## System & DevOps
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 50%;">
             <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/>
             </a>
           </td>
-          <td align="center">
+          <td align="center" style="width: 50%;">
             <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/>
             </a>
@@ -110,11 +110,11 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
         </tr>
       </table>
     </td>
-    <td align="center">
+    <td align="center" style="width: 33%;">
       ## Other
       <table>
         <tr>
-          <td align="center">
+          <td align="center" style="width: 100%;">
             <a href="https://www.electronjs.org" target="_blank">
               <img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/>
             </a>
@@ -124,7 +124,6 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
     </td>
   </tr>
 </table>
-
 
 
  <p align="center">
