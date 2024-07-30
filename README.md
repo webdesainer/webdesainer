@@ -31,7 +31,6 @@ Muestra ❤ dando ⭐ a mis Repositorios, al menos tu estrella podría alegrarle
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/></code>
 </a>
 
-
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
 </a>
